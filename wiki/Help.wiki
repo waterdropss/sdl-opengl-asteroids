@@ -1,0 +1,6 @@
+= Help =
+
+Use the W, A, S, D keys to move the spaceship and X to shoot.
+Press D to toggle debug mode.
+Press W to switch between wireframe- and opaque mode.
+Press Esc to exit the game.

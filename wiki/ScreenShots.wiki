@@ -2,8 +2,8 @@
 
 The game running in opaque mode.
 
-*Coming soon*
+http://sdl-opengl-asteroids.googlecode.com/files/OpaqueMode.png
 
 The game running in wireframe mode.
 
-*Coming soon*
+http://sdl-opengl-asteroids.googlecode.com/files/WireframeMode.png

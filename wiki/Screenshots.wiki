@@ -1,5 +1,3 @@
-= Screenshots =
-
 _The game running in opaque mode._
 
 http://sdl-opengl-asteroids.googlecode.com/files/OpaqueMode.png

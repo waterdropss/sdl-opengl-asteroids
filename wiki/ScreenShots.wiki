@@ -1,9 +1,0 @@
-= Screenshots =
-
-The game running in opaque mode.
-
-http://sdl-opengl-asteroids.googlecode.com/files/OpaqueMode.png
-
-The game running in wireframe mode.
-
-http://sdl-opengl-asteroids.googlecode.com/files/WireframeMode.png

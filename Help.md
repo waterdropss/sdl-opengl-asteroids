@@ -1,0 +1,17 @@
+# Menu #
+
+_Use the mouse to navigate._
+
+  * To change the number of asteroids spawned, hover over "Initial no. asteroids" and press the left or right mouse buttons
+  * Press "Sound" to toggle sound effects
+
+# Player controls #
+
+  * **Thrust :** UP
+  * **Turning:** LEFT/RIGHT
+  * **Fire   :** X
+
+# Additional controls #
+  * **Toggle debug mode    :** D
+  * **Toggle wireframe mode:** W
+  * **Quit current game    :** Esc
